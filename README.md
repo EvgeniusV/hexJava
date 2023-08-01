@@ -1,2 +1,0 @@
-# hexJava
-"My first project"
